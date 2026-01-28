@@ -13,7 +13,6 @@
 - 📊 **Skills**: SQL (MySQL), Power BI, Tableau, Python (Pandas, Matplotlib), Excel
 - 💼 **Experience**: 1 year as Junior Data Analyst | 4 completed projects on sales ,health ,e-commerce ,finance data
 - 🌱 **Learning**: Advanced SQL (CASE WHEN, Joins, Stored Procs), Python for data viz, Portfolio optimization
-- 📫 **Reach me**: [LinkedIn](http://www.linkedin.com/in/pavan-bhishnu-061310396) | [Email](connectwithpavankmr@gmail.com)
 
 ## ✨ Featured Projects
 - **[Sales Performance 2018-2020 ( Sales )](https://github.com/Pavankumar-Bishnu/Excel_Project_1)**: Excel analysis of retail sales trends
