@@ -2,9 +2,9 @@
 
 <h3 align="left"> A Passionate Data Analyst  |  SQL, Power BI, Python  |  1+ Year Experience  |  Andhrapradhesh, India </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pavankumar--Bishnu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://links.pavan-bhishnu-061310396.my.id/s/linkedin)](https://links.pavan-bhishnu-061310396.my.id/s/linkedin)
-[![Instagram Badge](https://img.shields.io/badge/-@rcf_pavan-purple?style=flat&logo=instagram&logoColor=white&link=https://links.rcf_pavan.my.id/s/instagram)](https://links.rcf_pavan.my.id/s/instagram)
-[![Gmail Badge](https://img.shields.io/badge/-connectwithpavan-c14438?style=flat&logo=Gmail&logoColor=white&link=https://links.pavankumar.my.id/s/email)](mailto:connectwithpavankmr@gmail.com.is-a.dev)
+[![Linkedin Badge](https://img.shields.io/badge/-Pavankumar--Bishnu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://links.pavan-bhishnu-061310396.my.id/s/linkedin)](https://www.linkedin.com/in/pavankumar-bishnu008)
+[![Instagram Badge](https://img.shields.io/badge/-@rcf_pavan-purple?style=flat&logo=instagram&logoColor=white&link=https://links.rcf_pavan.my.id/s/instagram)](https://www.instagram.com/rcf_pavan?igsh=MTB1eXMyZDVyaXRrcg==)
+[![Gmail Badge](https://img.shields.io/badge/-connectwithpavan-c14438?style=flat&logo=Gmail&logoColor=white&link=https://links.pavankumar.my.id/s/email)](mailto:connectwithpavankmr@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Pavankumar-Bishnu)
 
 <img align="right" alt="Coding" width="310" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
