@@ -15,10 +15,10 @@
 - 🌱 **Learning**: Advanced SQL (CASE WHEN, Joins, Stored Procs), Python for data viz, Portfolio optimization
 
 ## ✨ Featured Projects
-- **[Sales Performance 2018-2020 ( Sales )](https://github.com/Pavankumar-Bishnu/Excel_Project_1)**: Excel analysis of retail sales trends
-- **[Panic Attack Analysis ( Health )](https://github.com/Pavankumar-Bishnu/Python_IPYNB_Project_1)**: Python clustering on health data
-- **[Credit Data Analysis ( Finance )](https://github.com/Pavankumar-Bishnu/Power_Bi_Project_1)**: PowerBi analysis & Dax & viz
-- **[WebSite Data Analysis ( E-commerce )](https://github.com/Pavankumar-Bishnu/Tableau_Project_File_1)**: Tableau viz of P&L statements
+- **[Sales Performance 2018-2020 ( Sales )](https://github.com/Pavankumar-Bishnu/Excel_Project_File)**: Excel analysis of retail sales trends
+- **[Panic Attack Analysis ( Health )](https://github.com/Pavankumar-Bishnu/Python_Project_File)**: Python clustering on health data
+- **[Credit Data Analysis ( Finance )](https://github.com/Pavankumar-Bishnu/Power_Bi_Project_File)**: PowerBi analysis & Dax & viz
+- **[WebSite Data Analysis ( E-commerce )](https://github.com/Pavankumar-Bishnu/Tableau_Project_File)**: Tableau viz of P&L statements
 
 ## 🛠️ Tools & Tech
 ![My_Skills](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000)
