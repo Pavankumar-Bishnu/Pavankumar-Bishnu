@@ -14,7 +14,7 @@
 - 💼 **Experience**: 1 year as Junior Data Analyst | 4 completed projects on sales ,health ,e-commerce ,finance data
 - 🌱 **Learning**: Advanced SQL (CASE WHEN, Joins, Stored Procs), Python for data viz, Portfolio optimization
 
-## ✨ Featured Projects
+## ✨ Featured Projects - 2026
 - **[Sales Performance 2018-2020 ( Sales )](https://github.com/Pavankumar-Bishnu/Excel_Project_File)**: Excel analysis of retail sales trends
 - **[Panic Attack Analysis ( Health )](https://github.com/Pavankumar-Bishnu/Python_Project_File)**: Python clustering on health data
 - **[Credit Data Analysis ( Finance )](https://github.com/Pavankumar-Bishnu/Power_Bi_Project_File)**: PowerBi analysis & Dax & viz
